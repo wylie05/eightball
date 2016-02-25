@@ -4,4 +4,4 @@
 
 var c = require("skilstak-colors");
 
-console.log(c.clear + c.multi("Welcome To The Magic Eightball"));
+console.log(c.clear + c.multi("Welcome To The Mystical Eightball!!!!!!!!!!!!!!!!!!!!!!"));
