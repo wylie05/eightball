@@ -4,4 +4,26 @@
 
 var c = require("skilstak-colors");
 
-console.log(c.clear + c.multi("Welcome To The Mystical Eightball!!!!!!!!!!!!!!!!!!!!!!"));
+var answers = [
+  "Yes.", 24 function print(message) {
+
+  "NO.",
+  "When Pigs Can Fly.",
+  "Maybe.",
+  "Ask Again Later!!!!!!.",
+  "I predict NO.",
+  "Ask Siri.",
+  "Watch Netflix And Your Qustion Will Be Answered."
+];
+
+var easterEgg1 = ["ls","HELLO"];
+var easterEgg2 = ["bob","was plump"];
+var easterEgg3 = ["eightball","knows all the answers-NOT"];
+var easterEgg4 = ["Hello","From The Other Side"];
+var easterEggs = [easterEgg1, easterEgg2, easterEgg3, easterEgg4];
+
+function print(message) {
+  // console.log(message
+
+print(c.clear + c.multi(" 24 function print(message) {
+                        Welcome To The Mystical Eightball!!!!!!!!!!!!!!!!!!!!!!"));
