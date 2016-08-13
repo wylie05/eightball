@@ -14,7 +14,9 @@ var answers = [
   "I predict NO.",
   "Ask Siri.",
   "Watch Netflix And Your Qustion Will Be Answered."
+  "If You Have Seen 16 candles than yes."
 ];
+
 
 var easterEgg1 = ["ls","HELLO"];
 var easterEgg2 = ["bob","was plump"];
